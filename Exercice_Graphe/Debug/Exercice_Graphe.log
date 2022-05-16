@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\main.cpp(8,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
-C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\ex_24_1.h(17,2): warning C4091: 'typedef ' : ignoré à gauche de 's_sommet' quand aucune variable n'est déclarée
-  Exercice_Graphe.vcxproj -> C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\Debug\Exercice_Graphe.exe
