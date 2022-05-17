@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\main.cpp(8,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\ex_24_1.h(18,2): warning C4091: 'typedef ' : ignoré à gauche de 's_sommet' quand aucune variable n'est déclarée
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\main.cpp(99,19): error C2660: 'visiteS' : la fonction ne prend pas 2 arguments
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\main.cpp(21,6): message : voir la déclaration de 'visiteS'
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\main.cpp(327,16): error C2679: '=' binaire : aucun opérateur trouvé qui accepte un opérande de partie droite de type 'int' (ou il n'existe pas de conversion acceptable)
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\ex_24_1.h(18,1): message : est peut-être 's_sommet &s_sommet::operator =(s_sommet &&)'
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\ex_24_1.h(18,1): message : ou       's_sommet &s_sommet::operator =(const s_sommet &)'
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\1-ALgorithme\Trimestre3\Exercice_Graphe\main.cpp(327,16): message : lors de la tentative de mise en correspondance de la liste des arguments '(s_sommet, int)'
